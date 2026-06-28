@@ -1,0 +1,9 @@
+{
+  "name": "NXT DO Hook Up",
+  "description": "Neighborhood-based adult hookup and live streaming platform with local payment integration (MTN/Airtel) and gift systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
